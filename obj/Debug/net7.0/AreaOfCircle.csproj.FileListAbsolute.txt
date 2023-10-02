@@ -1,0 +1,14 @@
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\bin\Debug\net7.0\AreaOfCircle.exe
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\bin\Debug\net7.0\AreaOfCircle.deps.json
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\bin\Debug\net7.0\AreaOfCircle.runtimeconfig.json
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\bin\Debug\net7.0\AreaOfCircle.dll
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\bin\Debug\net7.0\AreaOfCircle.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.AssemblyInfoInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.AssemblyInfo.cs
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.csproj.CoreCompileInputs.cache
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.dll
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\refint\AreaOfCircle.dll
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.pdb
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\AreaOfCircle.genruntimeconfig.cache
+C:\Users\johnf\OneDrive\Desktop\repos\AreaOfCircle\obj\Debug\net7.0\ref\AreaOfCircle.dll
